@@ -162,6 +162,6 @@ Submits answers for a quiz and returns the score based on correct selections.
 **Raman Shinde**  
 Java Full Stack Developer  
 📍 Pune, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/raman-shinde/) *(optional)*
+🔗 [LinkedIn](https://www.linkedin.com/in/raman-shinde/)
 
 ---
